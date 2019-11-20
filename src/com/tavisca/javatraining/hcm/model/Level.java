@@ -1,5 +1,5 @@
 package com.tavisca.javatraining.hcm.model;
 
-public enum ProficiencyLevel {
+public enum Level {
     BEGINNER, INTERMEDIATE, EXPERT
 }
